@@ -19,6 +19,11 @@
     foaf:name "James G. Kim"@en , "김보람"@ko ;
     foaf:mbox_sha1sum "a637717b7e34b83694018e8fdd3ff334fffcd4f3" ;
     foaf:homepage <http://jayg.org/>
+  ] , [
+    a foaf:Person ;
+    owl:sameAs <http://data.dakchigo.kr/resource/hyeyoung.lee> ;
+    foaf:name "hyeyoung. Lee"@en , "이혜영"@ko ;
+    foaf:mbox_sha1sum "752172281d37a08b4f0c3080ed0f52de0455a45f"
   ] ;
   vann:preferredNamespaceUri "http://data.dakchigo.kr/bevon/" ;
   vann:preferredNamespacePrefix "bevon" ;
