@@ -19,7 +19,12 @@
     foaf:name "James G. Kim"@en , "김보람"@ko ;
     foaf:mbox_sha1sum "a637717b7e34b83694018e8fdd3ff334fffcd4f3" ;
     foaf:homepage <http://jayg.org/>
-  ] ;
+  ] , [
+    a foaf:Person ;
+    owl:sameAs <http://data.dakchigo.kr/resource/Kihoon_Kim> ;
+    foaf:name "Kihoon Kim"@en , "김기훈"@ko ;
+    foaf:mbox_sha1sum "abe0292b70a893ceff3e0ceeedec3cca863161bc"
+  ];
   vann:preferredNamespaceUri "http://data.dakchigo.kr/bevon/" ;
   vann:preferredNamespacePrefix "bevon" ;
   dcterms:type <http://purl.org/adms/assettype/Ontology> ;
