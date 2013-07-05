@@ -12,6 +12,7 @@ Resources
 - [GitHub](https://github.com/jgkim/linked_data_party)
   - For [Windows](http://windows.github.com/)
   - For [Mac](http://mac.github.comle/)
+- [SHA1](http://www.sha1.cz/)
 
 Vocabularies
 ------------
