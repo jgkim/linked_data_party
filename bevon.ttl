@@ -24,7 +24,12 @@
     owl:sameAs <http://data.dakchigo.kr/resource/Kihoon_Kim> ;
     foaf:name "Kihoon Kim"@en , "김기훈"@ko ;
     foaf:mbox_sha1sum "abe0292b70a893ceff3e0ceeedec3cca863161bc"
-  ];
+  ] , [
+    a foaf:Person ;
+    owl:sameAs <http://data.dakchigo.kr/resource/hyeyoung.lee> ;
+    foaf:name "Hyeyoung Lee"@en , "이혜영"@ko ;
+    foaf:mbox_sha1sum "752172281d37a08b4f0c3080ed0f52de0455a45f"
+  ] ;
   vann:preferredNamespaceUri "http://data.dakchigo.kr/bevon/" ;
   vann:preferredNamespacePrefix "bevon" ;
   dcterms:type <http://purl.org/adms/assettype/Ontology> ;
